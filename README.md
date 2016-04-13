@@ -12,7 +12,7 @@ $ bundle install --path vendor/bundle
 * `switt_client_id`: Foursquare client id
 * `switt_client_secret`: Foursquare client secret
 
-## Deployment
+## Development
 
 ```
 $ bundle exec rackup
